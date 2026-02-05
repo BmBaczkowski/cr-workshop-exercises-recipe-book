@@ -1,5 +1,9 @@
 # Chicken soup
 
-# Ingridients
+## Ingredients
 
 - chicken
+
+## Instructions
+
+- Cook the chicken
